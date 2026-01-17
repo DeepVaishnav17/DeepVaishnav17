@@ -24,25 +24,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,sql,spring,nodejs,express,react,tailwind,postgres,mongodb,redis,docker,git,github,githubactions,vscode,idea" />
 </p>
 
----
-
-## 📊 GitHub Stats Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepVaishnav17&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepVaishnav17&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVaishnav17&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph (Detailed)
 
 <p align="center">
