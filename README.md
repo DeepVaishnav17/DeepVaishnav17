@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,sql,spring,nodejs,express,react,tailwind,postgres,mongodb,redis,docker,git,github,githubactions,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,js,spring,nodejs,express,react,tailwind,postgres,mongodb,redis,docker,git,github,githubactions,vscode,idea" />
 </p>
 
 ## 📈 Contribution Graph (Detailed)
