@@ -65,6 +65,9 @@
   <a href="https://github.com/DeepVaishnav17">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+   <a href="https://www.linkedin.com/in/deep-vaishnav-7a783627a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
